@@ -2,7 +2,7 @@
 title: "11моя статья#1"
 date: 2022-12-07T02:50:03+03:00
 draft: false
-tags: ['tutorial', 'theme', 'asanas', 'thedffddme', 'ssssddd', 'ooooo', 'eeee', 'iiiii', 'ooo', 'theme'] 
+tags: ['опаа', 'щке', 'руу', 'дааа', 'емое', 'ooooo', 'eeee', 'качаем', 'ooo', 'мощь'] 
 ---
 
 Ну короче вот типо статья
